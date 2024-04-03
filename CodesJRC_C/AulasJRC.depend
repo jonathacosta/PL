@@ -1,0 +1,79 @@
+# depslib dependency file v1.0
+1574268115 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/main.c
+	<stdio.h>
+	<math.h>
+	"jrc_bib_AulasJRC.h"
+
+1574078605 /home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/prg1.c
+	<stdio.h>
+
+1574078605 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/prg1.c
+	<stdio.h>
+
+1574082030 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/func.c
+
+1574082258 /home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/teste.h
+
+1574082720 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/imp_cab.c
+
+1574083480 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/c0_cabec.c
+
+1574083283 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/c0_teste.c
+
+1574085048 /home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/jrc_bib.h
+
+1574084226 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/c1_OperBas.c
+
+1575547732 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E1.c
+
+1574084674 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E2.c
+
+1574089556 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E10.c
+
+1574088391 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E3.c
+
+1574088727 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E4.c
+
+1574089317 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E5.c
+
+1574088489 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E6.c
+
+1574088527 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E7.c
+
+1574088585 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E8.c
+
+1574089509 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/A6E9.c
+
+1574091017 source:/home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/cab_jrc.c
+
+1574085048 /home/j/Dropbox/1-IFCE/LogPrg/CodesJRC/AulasJRC/jrc_bib_AulasJRC.h
+
+1574089556 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E10.c
+
+1574084674 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E2.c
+
+1574088391 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E3.c
+
+1574089317 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E5.c
+
+1574088489 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E6.c
+
+1574088527 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E7.c
+
+1574088585 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E8.c
+
+1594829150 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/cab_jrc.c
+
+1594829216 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/main.c
+	<stdio.h>
+	<math.h>
+	"jrc_bib_AulasJRC.h"
+
+1574085048 /home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/jrc_bib_AulasJRC.h
+
+1594829315 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E1.c
+
+1580336018 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E4.c
+
+1580299766 source:/home/j/Dropbox/1-Discip.IFCE Marac/LogPrg/Mat JRC/CodesJRC_C/A6E9.c
+

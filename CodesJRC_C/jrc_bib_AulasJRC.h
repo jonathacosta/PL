@@ -1,0 +1,11 @@
+void imp_cab(void);
+void Aula6Ex1();
+void Aula6Ex2();
+void Aula6Ex3();
+void Aula6Ex4();
+void Aula6Ex5();
+void Aula6Ex6();
+void Aula6Ex7();
+void Aula6Ex8();
+void Aula6Ex9();
+void Aula6Ex10();
