@@ -2,7 +2,9 @@
 Lógica de programação
 Prof. Jonatha Costa
 Exercício resolvido:
-Escreva um programa que em C leia a idade e o peso de 8 pessoas. Calcule e imprima as médias de peso das pessoas da mesma faixa etária e quantas são de cada faixa etária. As faixas são de 1 a 10 anos, de 11-20, de  21-30 e maiores de 30, utilizando o for.
+Escreva um programa que em C leia a idade e o peso de 8 pessoas. 
+Calcule e imprima as médias de peso das pessoas da mesma faixa etária e quantas são de cada faixa etária. 
+As faixas etárias são de 1 a 10 anos, de 11 a 20 anos, de  21 a 30 anos, e maiores de 30. Utilize o comando for.
 */
 #include <stdio.h>
 int main() {
