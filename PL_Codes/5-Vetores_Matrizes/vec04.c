@@ -6,7 +6,6 @@ Escreva um código em C que preencha um vetor com 10 números e retorne quais s�
 os números primos deste vetor.
 */
 #include <stdio.h>
-
 int main() {
     int i, j, num[10];
     // Preenchendo o vetor com números
