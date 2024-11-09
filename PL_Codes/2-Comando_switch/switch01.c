@@ -14,15 +14,15 @@ printf("Informe uma letra:\n"); scanf("%c",&letra);
 switch(letra)
 {
     case 'a': printf("A letra é uma vogal.\n"); break;
-    case 'b': printf("A letra é uma vogal.\n"); break;
-    case 'c': printf("A letra é uma vogal.\n"); break;
-    case 'd': printf("A letra é uma vogal.\n"); break;
     case 'e': printf("A letra é uma vogal.\n"); break;
+    case 'i': printf("A letra é uma vogal.\n"); break;
+    case 'o': printf("A letra é uma vogal.\n"); break;
+    case 'u': printf("A letra é uma vogal.\n"); break;
     case 'A': printf("A letra é uma vogal.\n"); break;
-    case 'B': printf("A letra é uma vogal.\n"); break;
-    case 'C': printf("A letra é uma vogal.\n"); break;
-    case 'D': printf("A letra é uma vogal.\n"); break;
     case 'E': printf("A letra é uma vogal.\n"); break;
+    case 'I': printf("A letra é uma vogal.\n"); break;
+    case 'O': printf("A letra é uma vogal.\n"); break;
+    case 'U': printf("A letra é uma vogal.\n"); break;
     default: printf("A letra informada não é uma vogal!\n");
 }
 }
