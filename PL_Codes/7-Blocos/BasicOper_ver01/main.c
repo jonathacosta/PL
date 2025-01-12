@@ -14,7 +14,7 @@ int main() {
     int max, min;
     float media;
     // Gerar os números
-    CarregarVetor(numeros, tam_vet);
+    GerarVetor(numeros, tam_vet);
     // Calcular maior, menor e média
     max = EncontrarMaior(numeros, tam_vet);
     min = EncontrarMenor(numeros, tam_vet);

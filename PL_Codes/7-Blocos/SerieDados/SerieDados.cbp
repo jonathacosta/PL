@@ -31,10 +31,28 @@
 		<Compiler>
 			<Add option="-Wall" />
 		</Compiler>
-		<Unit filename="RotinasAuxiliares.c">
+		<Linker>
+			<Add option="-lm" />
+		</Linker>
+		<Unit filename="CalcularMedia.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="RotinasAuxiliares.h" />
+		<Unit filename="CalcularVarDesv.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CarregarPares.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="CarregarPrimos.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="EncontrarMaior.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SerieDados.c">
+			<Option compilerVar="CC" />
+		</Unit>
+		<Unit filename="SerieDados.h" />
 		<Unit filename="main.c">
 			<Option compilerVar="CC" />
 		</Unit>
