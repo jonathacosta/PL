@@ -11,7 +11,7 @@
 1736375167 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/BasicOper_ver01/RotinasAuxiliares_ver01.c
 	<stdio.h>
 
-1736703169 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/main.c
+1736777052 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/main.c
 	<stdio.h>
 	"SerieDados.h"
 	<math.h>
@@ -39,7 +39,7 @@
 	"SerieDados.h"
 	<stdio.h>
 
-1736703885 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/GerarVetor.c
+1736703927 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/GerarVetor.c
 	<stdio.h>
 	<math.h>
 	<stdlib.h>

@@ -1,8 +1,8 @@
 /*
 Lógica de programação
 Prof. Jonatha Costa
-Utilizando blocos e funções em arquivos distintos, faça um código que:
-Leia 10 numeros e informe: o maior número, o menor número, os números pares, os números primos,
+Utilizando blocos e funções em arquivos distintos, faça um código que leia 10 numeros e informe:
+o maior número, o menor número, os números pares, os números primos,
 a média aritmética entre os 10 números, a covariância e o desvio padrão.
 */
 #include <stdio.h>
@@ -13,7 +13,7 @@ int main() {
      // Definindo variáveis
     int tam_vet=10; //  Tamanho do vetor de numeros
     int numeros[tam_vet],primos[tam_vet];
-    int pares[10]={};
+    int pares[tam_vet]={};
     float max,min,media,variancia,desvio_padrao;
 
     // Preencher os números no vetor

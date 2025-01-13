@@ -49,7 +49,7 @@
 		<Unit filename="EncontrarMaior.c">
 			<Option compilerVar="CC" />
 		</Unit>
-		<Unit filename="SerieDados.c">
+		<Unit filename="GerarVetor.c">
 			<Option compilerVar="CC" />
 		</Unit>
 		<Unit filename="SerieDados.h" />
