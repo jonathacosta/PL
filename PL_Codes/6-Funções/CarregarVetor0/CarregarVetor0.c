@@ -1,10 +1,5 @@
-/*
-Lógica de programação
-Prof. Jonatha Costa
-Exercício resolvido: Ler 10 numeros
-*/
+// Rotina de carregar vetor
 #include<stdio.h>
-
 void CarregarVetor(int num[],int tam_vet)
 {
 for (int i=0;i<tam_vet;i++)
@@ -13,9 +8,3 @@ for (int i=0;i<tam_vet;i++)
    }
 }
 
-int main()
-{  int tam_vet=10;
-   int num[tam_vet];
-   CarregarVetor(num,tam_vet);
-
-}
