@@ -2,12 +2,15 @@
 Lógica de programação
 Prof. Jonatha Costa
 Exercício resolvido:
-Defina uma estrutura chamada Pessoa com os campos nome e idade. Crie um ponteiro para uma variável do tipo Pessoa, atribua valores a esses campos e imprima as informações.
+Defina uma estrutura chamada Pessoa com os campos nome e idade. 
+Crie um ponteiro para uma variável do tipo Pessoa, atribua valores a 
+esses campos e imprima as informações.
 */
 #include <stdio.h>
 struct Pessoa 
 {   char nome[50];
-    int idade;};
+    int idade;
+};
 int main() {
     struct Pessoa p1 = {"Alice", 25};
     struct Pessoa *ptr = &p1;

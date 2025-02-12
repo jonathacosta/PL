@@ -13,8 +13,8 @@ Contudo, é possível:
 void CarregarVetor(int numeros[], int tamanho) {
 
     for (int i = 0; i < tamanho; i++) {
-        int k= rand() % 11;
-        numeros[i]=(i+1)*k;}
+        //int k= rand() % 11;
+        numeros[i]=(i+1);}
     }
 
 void ExibirVetor(int numeros[],int tamanho) {

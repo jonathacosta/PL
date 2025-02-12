@@ -27,7 +27,7 @@
 
 1736692631 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/CalcularMedia.c
 
-1736692795 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/CalcularVarDesv.c
+1739194830 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/CalcularVarDesv.c
 	"SerieDados.h"
 	<math.h>
 
@@ -39,7 +39,7 @@
 	"SerieDados.h"
 	<stdio.h>
 
-1736703927 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/GerarVetor.c
+1739189732 source:/run/media/j/2B37EA2920628FCD/1.0 Job/Disciplines/2- Programming Logic/1- PL_Materials_git/PL_Codes/7-Blocos/SerieDados/GerarVetor.c
 	<stdio.h>
 	<math.h>
 	<stdlib.h>
